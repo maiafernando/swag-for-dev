@@ -24,6 +24,14 @@
     "tags": ["clothing", "stickers"]
   },
   {
+    "name": "Datadog",
+    "difficulty": "easy",
+    "description": "Sign up for a 30-day trial, install the agent and get a free t-shirt.",
+    "reference": "http://talkpython.fm/datadog",
+    "image": "https://datadog-prod.imgix.net/img/shirt_lp_shirt-2.png?ch=Width&fit=max&fm=png&auto=format&lossless=1",
+    "tags": ["clothing"]
+  },
+  {
     "name": "devRant",
     "difficulty": "medium",
     "description": "Get 30 ++'s on a single rant you've posted to devRant to receive 3 free high-quality devRant laptop stickers! Or post an awesome rant that gets over 750 ++'s to receive a free devRant squishy stress ball!",
